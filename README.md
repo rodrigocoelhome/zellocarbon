@@ -13,9 +13,14 @@ This project is a simple ERC-721 NFT smart contract written in Solidity and depl
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**
+1. **Install dependencies**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+npm install
+
+2. **Install dependencies**
+
+```env
+PRIVATE_KEY=your_private_key_here
+
 
