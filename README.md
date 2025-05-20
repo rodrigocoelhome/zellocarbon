@@ -20,7 +20,6 @@ npm install
 
 2. **Install dependencies**
 
-```env
 PRIVATE_KEY=your_private_key_here
 
 
