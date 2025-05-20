@@ -16,7 +16,7 @@ This project is a simple ERC-721 NFT smart contract written in Solidity and depl
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/rodrigocoelhome/zellocarbon.git
 cd your-repo-name
 ```
 
